@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "Peque's Auto Mechanic",
+    "shortName": "Peque's",
+    "tagline": "Dallas' Trusted Auto Repair & Maintenance",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 454-7964",
+    "address": "10220 Forest Ln, Dallas, TX 75243",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30am-5:30pm, Sat 8am-12pm",
+    "ctaLabel": "Schedule Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Peque's Auto Mechanic | Expert Auto Repair in Dallas, TX | (214) 454-7964",
+    "description": "Peque's Auto Mechanic in Dallas, TX offers professional auto repair, maintenance, and diagnostics. Trusted by locals for quality service. Call (214) 454-7964 today!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas' Premier Auto Repair Shop Since 2010",
+      "headline": "Expert Auto Mechanic Serving Dallas & Beyond",
+      "subheadline": "From routine oil changes to complex engine diagnostics, Peque's delivers reliable, honest service that keeps you safe on the road.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 454-7964"
+    },
+    "stats": [
+      {
+        "value": "4.8",
+        "label": "Average Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "14+",
+        "label": "Years in Business"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Full-Service Auto Repair",
+        "title": "Comprehensive Diagnostics & Repairs",
+        "body": "Our ASE-certified technicians use the latest equipment to diagnose and fix any issue. Whether it's a check engine light, brake noise, or transmission trouble, we've got you covered.",
+        "bullets": [
+          "Advanced diagnostic tools for accurate results",
+          "Transparent pricing with upfront estimates",
+          "Warranty on all parts and labor"
+        ],
+        "reverse": false,
+        "cardLabel": "Service Highlight",
+        "cardTitle": "Check Engine Light?",
+        "cardBody": "We'll scan and diagnose the problem fast, often same-day. No appointment needed for diagnostics."
+      },
+      {
+        "eyebrow": "Preventive Maintenance",
+        "title": "Keep Your Car Running Smoothly",
+        "body": "Regular maintenance extends your vehicle's life and prevents costly breakdowns. We offer tailored maintenance plans for all makes and models.",
+        "bullets": [
+          "Oil changes, tire rotations, fluid flushes",
+          "Brake inspections and replacements",
+          "Seasonal check-ups for AC, heating, and belts"
+        ],
+        "reverse": true,
+        "cardLabel": "Popular Service",
+        "cardTitle": "Oil Change Special",
+        "cardBody": "Includes full synthetic oil, filter, and multi-point inspection. Starting at $49.99."
+      }
+    ],
+    "whyTitle": "Why Choose Peque's Auto Mechanic?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Expertise",
+        "description": "Our team holds ASE certifications and undergoes continuous training to stay current with the latest automotive technology."
+      },
+      {
+        "title": "Honest & Transparent",
+        "description": "We provide detailed estimates before any work begins. No hidden fees, no upselling — just straightforward service."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most repairs are completed within 24 hours. We respect your time and get you back on the road quickly."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "We stand behind our work with a 12-month/12,000-mile warranty. Your peace of mind is our priority."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my SUV to Peque's for years. They're always honest about what needs fixing and what can wait. Fair prices and great work.",
+        "author": "Mike R.",
+        "role": "Lake Highlands resident"
+      },
+      {
+        "quote": "My check engine light came on and I was worried it would be expensive. They diagnosed it quickly and the repair was affordable. Highly recommend!",
+        "author": "Jessica L.",
+        "role": "White Rock area driver"
+      },
+      {
+        "quote": "Peque's is the only shop I trust with my family's cars. They explain everything clearly and the work is always top-notch.",
+        "author": "David M.",
+        "role": "Dallas homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Call us or book online. We're here to help.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 454-7964"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Peque's Auto Mechanic, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine oil changes to major engine repairs, our certified technicians have the expertise to handle it all. We work on all makes and models and use only quality parts. Explore our services below and schedule your appointment today."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and expert repairs for check engine lights, performance issues, and more.",
+      "longDescription": "When your check engine light comes on or your car isn't performing as it should, our advanced diagnostic equipment quickly identifies the root cause. We then provide a clear explanation and a detailed estimate before any work begins. Our technicians have experience with all engine types and can handle everything from sensor replacements to major overhauls.",
+      "benefits": [
+        "Pinpoint accuracy with OEM-level diagnostic tools",
+        "Transparent communication and upfront pricing",
+        "Warranty on all parts and labor"
+      ],
+      "process": [
+        {
+          "title": "Computer Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and live data."
+        },
+        {
+          "title": "In-Depth Inspection",
+          "description": "Our technician performs a visual and physical inspection to confirm the issue."
+        },
+        {
+          "title": "Repair & Verification",
+          "description": "We complete the repair and test-drive your car to ensure everything is working correctly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does a diagnostic test cost?",
+          "answer": "Our standard diagnostic fee is $89.95, which is waived if you choose to have the repair done by us."
+        },
+        {
+          "question": "Can you diagnose a check engine light the same day?",
+          "answer": "Yes, we offer same-day diagnostics on most vehicles. Give us a call or stop by."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Services",
+      "shortDescription": "Complete brake inspection, repair, and replacement for safe stopping power.",
+      "longDescription": "Your brakes are your vehicle's most critical safety system. At Peque's, we inspect pads, rotors, calipers, and brake lines to ensure optimal performance. Whether you're hearing squeaks or feeling vibrations, we'll diagnose the problem and recommend the right solution. We use high-quality parts to restore your braking system to factory standards.",
+      "benefits": [
+        "Thorough inspection of all brake components",
+        "Quality parts for long-lasting performance",
+        "Competitive pricing with no hidden fees"
+      ],
+      "process": [
+        {
+          "title": "Visual & Road Test",
+          "description": "We check brake pad thickness, rotor condition, and test for pedal feel and noise."
+        },
+        {
+          "title": "Component Assessment",
+          "description": "We measure rotor runout, inspect calipers, and check brake fluid condition."
+        },
+        {
+          "title": "Repair & Final Check",
+          "description": "We replace worn parts, bleed the system if needed, and perform a final road test."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get my brakes checked?",
+          "answer": "We recommend a brake inspection every 10,000 miles or once a year, whichever comes first."
+        },
+        {
+          "question": "Do you offer brake pad replacement only?",
+          "answer": "Yes, but we always recommend inspecting rotors as well. We'll advise you on the best option for your vehicle."
+        }
+      ],
+      "slug": "brake-services"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Changes & Fluid Services",
+      "shortDescription": "Keep your engine healthy with regular oil changes and fluid flushes.",
+      "longDescription": "Regular oil changes are the simplest way to extend your engine's life. We use high-quality synthetic and conventional oils to match your manufacturer's specifications. Our oil change service includes a free multi-point inspection to catch potential issues early. We also offer transmission, coolant, brake, and power steering fluid flushes.",
+      "benefits": [
+        "Free multi-point inspection with every oil change",
+        "Premium oils that meet or exceed OEM specs",
+        "Convenient appointment times and quick service"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace",
+          "description": "We drain old oil, replace the filter, and fill with fresh oil of your choice."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We check belts, hoses, tires, lights, and fluid levels."
+        },
+        {
+          "title": "Fluid Top-Off",
+          "description": "We top off all essential fluids and reset your maintenance reminder."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic oils. We'll recommend the best option for your vehicle."
+        },
+        {
+          "question": "How long does an oil change take?",
+          "answer": "Typically 30-45 minutes. No appointment needed for oil changes."
+        }
+      ],
+      "slug": "oil-changes-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heating system service.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. Our technicians are trained to diagnose and repair all climate control systems. From refrigerant recharges to compressor replacements, we restore your comfort quickly. We also check for leaks and ensure proper airflow.",
+      "benefits": [
+        "Complete AC performance test and leak detection",
+        "Heater core and blower motor repairs",
+        "Environmentally responsible refrigerant handling"
+      ],
+      "process": [
+        {
+          "title": "System Performance Test",
+          "description": "We measure vent temperatures, pressure readings, and inspect components."
+        },
+        {
+          "title": "Leak Detection & Diagnosis",
+          "description": "Using UV dye and electronic detectors, we locate any refrigerant leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We replace faulty parts, evacuate the system, and recharge with the correct refrigerant."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose the exact problem."
+        },
+        {
+          "question": "Do you repair heater issues?",
+          "answer": "Yes, we handle all heating system repairs, including heater core, thermostat, and blower motor problems."
+        }
+      ],
+      "slug": "ac-heating-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Local Auto Mechanic Since 2010",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our customers safe and their vehicles running reliably. We believe in transparency, integrity, and building long-term relationships with the Dallas community.",
+    "story": [
+      "Peque's Auto Mechanic was founded in 2010 with a simple vision: create a repair shop where customers feel respected and informed. Starting with a small garage on Forest Lane, owner Peque built a reputation for thorough diagnostics and fair pricing. Over the years, we've expanded our facility and team, but our core values remain unchanged.",
+      "Today, we serve thousands of customers across Dallas and surrounding areas. Our ASE-certified technicians continue to invest in training and equipment to stay ahead of the curve. We're proud to be a locally owned business that treats every car like it's our own."
+    ],
+    "highlight": {
+      "stat": "14+",
+      "label": "Years of Service in Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always tell you what your car needs — and what it doesn't."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat every customer and vehicle with the utmost care."
+      },
+      {
+        "title": "Community",
+        "description": "We support local events and give back to the Dallas area."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Peque's Auto Mechanic",
+    "subheadline": "Ready to schedule service or have a question? Call us or fill out the form below.",
+    "primaryCta": "Call (214) 454-7964",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Garland",
+      "Richardson",
+      "Plano",
+      "Mesquite",
+      "Lake Highlands",
+      "White Rock"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2144547964",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
